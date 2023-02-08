@@ -37,4 +37,6 @@
 [<img src="res\logo-nopixel.png" width="150" height="64"/>](https://untitledoutput.github.io/knyte-bangers/)&nbsp;
 [<img src="res\ec54d8566fa8afdb88b22e5684c0ab14.webp" width="64" height="64"/>](https://gamebanana.com/wips/70518)&nbsp;
 
+# Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=untitledoutput&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Output's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=untitledoutput&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
