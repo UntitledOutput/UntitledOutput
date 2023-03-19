@@ -34,11 +34,11 @@
 # Projects i'm working on
 
 [<img src="res\logo-nopixel.png" width="150" height="64"/>](https://untitledoutput.github.io/knyte-bangers/)&nbsp;
+[<img src="res\ec54d8566fa8afdb88b22e5684c0ab14.webp" width="64" height="64"/>](https://gamebanana.com/wips/70518)&nbsp;
 
 # Projects I have worked on (Finished, Unfinished, or paused)
 
 [<img src="res\twtIcon.png" width="64" height="64"/>]()&nbsp;
-[<img src="res\ec54d8566fa8afdb88b22e5684c0ab14.webp" width="64" height="64"/>](https://gamebanana.com/wips/70518)&nbsp;
 
 # Stats
 
