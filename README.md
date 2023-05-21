@@ -9,6 +9,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="64" height="64"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="64" height="64"/>&nbsp;
 
 ## Languages I'm Learning
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="64" height="64"/>
@@ -27,6 +28,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="64" height="64"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="64" height="64"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" width="64" height="64"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/79727016/209360269-bfc9ba78-9864-47f5-bb54-7c19d2d6ae38.png" width="64" height="64"/>&nbsp;
 
