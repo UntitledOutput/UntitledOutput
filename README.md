@@ -10,6 +10,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="64" height="64"/>&nbsp;
+(and glsl and pica200 theres just no icon for them)
 
 ## Languages I'm Learning
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="64" height="64"/>
