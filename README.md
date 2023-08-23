@@ -1,5 +1,5 @@
 <div><center>
-  <h3 align=center>UntitledOutput - Part-Time Developer</h3>
+  <h3 align=center>UntitledOutput - C++/C# Developer</h3>
     <p align="center"><img src="https://avatars.githubusercontent.com/untitledoutput" height="150" width="150"></p>
 </div></center>
 
