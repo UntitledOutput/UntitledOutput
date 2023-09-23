@@ -10,10 +10,18 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="64" height="64"/>&nbsp;
+<a href="https://gdscript.com">
+<img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="64" height="64"/>&nbsp;
+</a>
+<a href="https://en.wikipedia.org/wiki/OpenGL_Shading_Language#:~:text=OpenGL%20Shading%20Language%20(GLSL)%20is,on%20the%20C%20programming%20language.">
+<img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg" width="64" height="64"/>&nbsp;
+</a>
+
 (and glsl and pica200 theres just no icon for them)
 
 ## Languages I'm Learning
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="64" height="64"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="64" height="64"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="64" height="64"/>&nbsp;
 
 ## Libraries I use
 <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" width="64" height="64"/>&nbsp;
@@ -34,6 +42,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="64" height="64"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/79727016/209360269-bfc9ba78-9864-47f5-bb54-7c19d2d6ae38.png" width="64" height="64"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" width="64" height="64"/>&nbsp;
 
 # Stats
 
