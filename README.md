@@ -17,7 +17,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-plain.svg" width="64" height="64"/>&nbsp;
 </a>
 
-(and glsl and pica200 theres just no icon for them)
+(pica200 theres just no icon for them)
 
 ## Languages I'm Learning
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="64" height="64"/>&nbsp;
