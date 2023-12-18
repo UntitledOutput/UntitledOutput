@@ -19,16 +19,6 @@
 
 (and pica200 theres just no icon for it)
 
-## Languages I'm Learning
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="64" height="64"/>&nbsp;
-
-## Libraries I use
-<img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" width="64" height="64"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" width="64" height="64"/>&nbsp;
-<img src="https://devblogs.microsoft.com/directx/wp-content/uploads/sites/42/2020/03/ultimate.png" width="64" height="64"/>&nbsp;
-<img src="https://github.com/raysan5/raylib/blob/master/logo/raylib_logo_animation.gif" width="64" height="64"/>&nbsp;
-
 ## Tools I use
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="64" height="64"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="64" height="64"/>&nbsp;
