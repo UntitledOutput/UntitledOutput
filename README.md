@@ -36,4 +36,4 @@
 
 # Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=untitledoutput&show_icons=true&theme=dark)](https://github.com/untitledoutput) [![Output's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=untitledoutput&show_icons=true&theme=dark)](https://github.com/untitledoutput)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=untitledoutput&langs_count=8&theme=dark&hide=javascript,html,css)](https://github.com/untitledoutput) [![Output's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=untitledoutput&show_icons=true&theme=dark)](https://github.com/untitledoutput)
