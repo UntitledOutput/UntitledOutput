@@ -36,4 +36,6 @@
 
 # Stats
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=untitledoutput&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Output's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=untitledoutput&show_icons=true&theme=dark)](https://github.com/untitledoutput)
+[![Output's Code Stats](https://wakatime.com/share/@untitledoutput/db136fd6-348d-4114-830c-4ed870384333.svg)](https://wakatime.com/@untitledoutput)
+
+[![Output's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=untitledoutput&show_icons=true&theme=dark)](https://github.com/untitledoutput)
