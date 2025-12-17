@@ -1,5 +1,5 @@
 <div>
-  <h3 align=center>UntitledOutput - Polyglot Developer</h3>
+  <h3 align=center>Christian Beverley - Polyglot Developer</h3>
     <p align="center"><img src="https://avatars.githubusercontent.com/untitledoutput" height="150" width="150"></p>
 </div>
 
